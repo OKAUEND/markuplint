@@ -11,5 +11,8 @@
   "excludeFiles": [
     "./src/app/**.tsx",
     "./src/app/NoLint/**.tsx"
-  ]
+  ],
+  "rules": {
+    "label-has-control": true
+  }
 }
