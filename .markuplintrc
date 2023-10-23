@@ -7,5 +7,8 @@
   },
   "extends": [
     "markuplint:recommended"
+  ],
+  "excludeFiles": [
+    "./src/app/NoLint/**.tsx"
   ]
 }
