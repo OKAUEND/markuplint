@@ -1,1 +1,3 @@
-import { Input, InputLabel } from '@mui/material';
+export const MuiLayout = ({ children }: { children: React.ReactNode }) => {
+  return <div>{children}</div>;
+};
