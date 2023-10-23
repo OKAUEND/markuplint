@@ -9,6 +9,7 @@
     "markuplint:recommended"
   ],
   "excludeFiles": [
+    "./src/app/**.tsx",
     "./src/app/NoLint/**.tsx"
   ]
 }
